@@ -1,5 +1,5 @@
 # Publish your Obsidian Notes
-[xiaolan_readingnotes](https://yeqinwen.github.io/xiaolan_readingnotes/)，使用[MkDocs template](https://github.com/jobindjohn/obsidian-publish-mkdocs)构建，笔记网页保存在[github](https://github.com/yeqinwen/xiaolan_readingnotes)
+使用[MkDocs template](https://github.com/jobindjohn/obsidian-publish-mkdocs)构建，笔记网页保存在[github](https://github.com/yeqinwen/xiaolan_readingnotes)
 
 1. obsidian：记笔记
 2. github desktop：将笔记同步到github
